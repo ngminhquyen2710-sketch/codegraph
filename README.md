@@ -1,4 +1,4 @@
-﻿# CodeFuse-CGM Web App
+﻿# CodeExplorer AI
 
 A simple web interface that loads a GitHub repository, builds a code graph, and lets you ask questions about the code using an AI chat assistant.
 
